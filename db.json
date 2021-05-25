@@ -1,0 +1,20 @@
+{
+  "servers": [
+    {
+      "id": "localhost",
+      "host": "http://localhost:8080"
+    },
+    {
+      "id": "analyticscctv.semarangkota.go.id",
+      "host": "api.cctvsemarang.katalisindonesia.com"
+    },
+    {
+      "id": "tiliksemar.semarangkota.go.id",
+      "host": "api.cctvsemarang.katalisindonesia.com"
+    },
+    {
+      "id": "analytics.cctvsemarang.katalisindonesia.com",
+      "host": "api.cctvsemarang.katalisindonesia.com"
+    }
+  ]
+}
