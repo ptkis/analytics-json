@@ -13,6 +13,10 @@
       "host": "https://api.cctvsemarang.katalisindonesia.com"
     },
     {
+      "id": "semarang.dasbor.id",
+      "host": "https://api.cctvsemarang.katalisindonesia.com"
+    },
+    {
       "id": "analytics.cctvsemarang.katalisindonesia.com",
       "host": "https://api.cctvsemarang.katalisindonesia.com"
     }
