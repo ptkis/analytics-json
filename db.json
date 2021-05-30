@@ -6,15 +6,15 @@
     },
     {
       "id": "analyticscctv.semarangkota.go.id",
-      "host": "api.cctvsemarang.katalisindonesia.com"
+      "host": "https://api.cctvsemarang.katalisindonesia.com"
     },
     {
       "id": "tiliksemar.semarangkota.go.id",
-      "host": "api.cctvsemarang.katalisindonesia.com"
+      "host": "https://api.cctvsemarang.katalisindonesia.com"
     },
     {
       "id": "analytics.cctvsemarang.katalisindonesia.com",
-      "host": "api.cctvsemarang.katalisindonesia.com"
+      "host": "https://api.cctvsemarang.katalisindonesia.com"
     }
   ]
 }
