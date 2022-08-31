@@ -22,7 +22,7 @@
     },
     {
       "id": "banyuwangi.dasbor.id",
-      "host": "https://api.banyuwangi.dasbor.id"
+      "host": "http://api.banyuwangi.dasbor.id"
     }
   ]
 }
