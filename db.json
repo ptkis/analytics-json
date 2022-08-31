@@ -19,6 +19,10 @@
     {
       "id": "analytics.cctvsemarang.katalisindonesia.com",
       "host": "https://api.cctvsemarang.katalisindonesia.com"
+    },
+    {
+      "id": "banyuwangi.dasbor.id",
+      "host": "https://api.banyuwangi.dasbor.id"
     }
   ]
 }
