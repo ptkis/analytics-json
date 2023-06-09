@@ -31,6 +31,10 @@
     {
       "id": "10.17.101.52",
       "host": "http://10.17.101.52:8080"
+    },
+    {
+      "id": "sv-cctv-analytics-dashboard",
+      "host": "http://sv-cctv-analytics-dashboard:8080"
     }
   ]
 }
